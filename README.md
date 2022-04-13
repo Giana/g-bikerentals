@@ -13,6 +13,11 @@ G-BikeRentals is a script for FiveM QBCore allowing you to configure bicycle ren
 - Configure bike rental locations
 - Display selected bikes before renting
 
+**IMAGES**
+-----
+![Bicycles for Rent Menu](https://i.ibb.co/8mt2Wm5/bicyclesforrentmenu.png)
+![Bicycle Rental Confirmation Menu](https://i.ibb.co/wpDjJ4s/bicyclerentalconfirmationmenu.png)
+
 **DEPENDENCIES**
 -----
 - QBCore - https://github.com/qbcore-framework
